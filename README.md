@@ -1,4 +1,4 @@
- Heart Disease Medical Diagnosis Model
+HEART DISEASE MEDICAL DIAGNOSIS MODEL.
 
 ## Overview
 This project is a machine learning application designed to predict the risk of heart disease in individuals based on various health metrics. Using a dataset from the Cleveland Heart Disease database, the model classifies whether a person is at high risk (1) or low risk (0) of heart disease.
